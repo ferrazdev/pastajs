@@ -1,13 +1,30 @@
-let primeiroNumero = 10;
-let segundoNumerlet =
-let Soma = 0;
+{
+    let pct = 7;
+    let unidade = 30;
+    let repetida = 15
+    let Multiplicacao = 0;
 
-primeiroNumero = 10;
-segundoNumero = 5;
+    Multiplicacao = (pct * unidade) - 15
+    console.log ("Multiplicação" , Multiplicacao)
+    console.log ("Tipo de variavel número", typeof(Multiplicacao))
 
-primeiroNumero += 10
-segundoNumero += 10
+}
 
-Soma = primeiroNumero + segundoNumero
-console.log(`Soma` , Soma) 
-console.log("Tipo de variavel numero", typeof(primeiroNumero))
+{
+    let caixa = 4;
+    let quantidade = 24;
+    let Multiplicacao = 0;
+
+    Multiplicacao = caixa * quantidade
+
+    console.log  ("Multiplicação" , Multiplicacao)
+    console.log ("Tipo de variavel número" , typeof(Multiplicacao))
+
+}
+
+{
+    let par = 10;
+    let impar = 0;
+    
+
+}

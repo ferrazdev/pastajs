@@ -23,8 +23,21 @@
 }
 
 {
-    let par = 10;
-    let impar = 0;
-    
+    let a = 10;
+    a --;
+
+    console.log (a)
+    a--;
+    a--;
+    console.log(a)
+    a--;
+    a--;
+    console.log(a)
+    a--;
+    a--;
+    console.log(a)
+    a--;
+    a--;
+    console.log(a)
 
 }
